@@ -48,7 +48,11 @@
  </details>
    <details align="center">
     <summary>thx awards hi</summary>
-    <a href="https://github.com/pt-walk-of-fame">pt-walk-of-fame</a>ㅤㅤ<a href="https://github.com/pt-of-awesomeness">pt-of-awesomeness</a>ㅤㅤ<a href="https://github.com/compliment-town">compliment-town</a>ㅤㅤ<a href="https://github.com/pt-ship-nominations">pt-ship-nominations</a>
+    <a href="https://github.com/pt-walk-of-fame">pt-walk-of-fame</a>ㅤㅤ<a href="https://github.com/pt-of-awesomeness">pt-of-awesomeness</a>
+<br>
+     <a href="https://github.com/compliment-town">compliment-town</a>ㅤㅤ<a href="https://github.com/pt-ship-nominations">pt-ship-nominations</a>
+     <br>
+     <a href="https://github.com/Knox-Event">Knox-Event</a>ㅤㅤ<a href="https://github.com/piddlesjet">piddlesjet</a>
 </details>
 </th>
   <th>
