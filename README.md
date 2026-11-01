@@ -1,13 +1,13 @@
 <p align="center"><a href="https://docs.google.com/document/d/1Zw251H_qY1zRE4KAXhFO-r-3-JTH012_eN-yMVhkPDc/edit?tab=t.0">read this document regarding Copy Town to spread awareness.</a>
 <p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSEVENTRlALSOFHABlT&label=%20&labelColor=%2365586f&countColor=%2365586f" /></a></p>
 <table align="center">
-  <th>Ill retheme this sometime
+  <th>Im that pokepasta fella
   <br>
-  im lazy. and im gay
+  queerest woke ever (gay)
   </th>
 <th>
   <details align="center">
-    <summary>Shitnos</summary>
+    <summary>Friends</summary>
  <a href="https://github.com/Servwant">Beloved</a>ㅤㅤ<a href="https://github.com/thefleshcurtains">Our bro</a>ㅤㅤ<a href="https://github.com/fleshburn">Jace</a>
 <br>
     <a href="https://github.com/yaoiautism">Morv</a>ㅤㅤ<a href="https://github.com/argshenic">Slater</a>ㅤㅤ<a href="https://github.com/dessert-kitty">Opera</a>
@@ -35,7 +35,7 @@
     <br>
 <a href="https://github.com/infugue">Silver</a>ㅤㅤ<a href="https://github.com/eversleeping-town">Ada</a>ㅤㅤ<a href="https://github.com/HEARTS-GOLD">Ems</a>
    <br>
-   <a href="https://github.com/ghostlygusher">Tyler</a>ㅤㅤ<a href="https://github.com/frostbittenkisses">Cobalt</a>ㅤㅤ<a href="https://github.com/yubelsrevenge">Jaden</a>
+   <a href="https://github.com/ghostlygusher">Tyler</a>ㅤㅤ<a href="https://github.com/frostbittenkisses">Cobalt</a>ㅤㅤ<a href="https://github.com/yubelsrevenge">Jaden</a>ㅤㅤ<a href="https://github.com/Duchess-swn">Vivi</a>ㅤㅤ<a href="https://github.com/datingdetergent">Emera</a>
    <br>
 + others oomfs
   </details>
