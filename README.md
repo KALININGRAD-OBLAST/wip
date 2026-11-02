@@ -33,11 +33,11 @@
     <br>
 <a href="https://github.com/dengeumon">Jackie</a>ㅤㅤ<a href="https://github.com/hanpilled">Cozy</a>ㅤㅤ<a href="https://github.com/PERDlTION">Coy</a>
     <br>
-<a href="https://github.com/infugue">Silver</a>ㅤㅤ<a href="https://github.com/eversleeping-town">Ada</a>ㅤㅤ<a href="https://github.com/HEARTS-GOLD">Ems</a>
+<a href="https://github.com/yubelsrevenge">Jaden</a>ㅤㅤ<a href="https://github.com/eversleeping-town">Ada</a>ㅤㅤ<a href="https://github.com/HEARTS-GOLD">Ems</a>
    <br>
-   <a href="https://github.com/ghostlygusher">Tyler</a>ㅤㅤ<a href="https://github.com/frostbittenkisses">Cobalt</a>ㅤㅤ<a href="https://github.com/yubelsrevenge">Jaden</a>
+   <a href="https://github.com/ghostlygusher">Tyler</a>ㅤㅤ<a href="https://github.com/frostbittenkisses">Cobalt</a>ㅤㅤ<a href="https://github.com/Duchess-swn">Vivi</a>
   <br>
-<a href="https://github.com/Duchess-swn">Vivi</a>ㅤㅤ<a href="https://github.com/datingdetergent">Emera</a>
+<a href="https://github.com/datingdetergent">Emera</a>
    <br>
 + others oomfs
   </details>
